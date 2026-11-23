@@ -1,0 +1,6 @@
+{
+  "name": "matrix-rain",
+  "version": "0.6.1",
+  "description": "Slow green digital rain behind the conversation while Claude works; it dims to a faint grid while Claude waits.",
+  "types": "./types/index.d.ts"
+}
